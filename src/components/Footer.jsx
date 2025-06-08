@@ -37,6 +37,9 @@ const Footer = () => {
             ))}
           </div>
         </div>
+        <div>
+          <p>made by Chandan C R</p>
+        </div>
       </div>
     </footer>
   )
